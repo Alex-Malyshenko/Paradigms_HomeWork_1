@@ -12,6 +12,4 @@ def sort_list_imperative(numbers):
 
     return numbers
 
-# numbers = [10, 2, 7, -2, 6, 15, 4, 78, 0, -5]
-
 print(sort_list_imperative([10, 2, 7, -2, 6, 15, 4, 78, 0, -5]))
